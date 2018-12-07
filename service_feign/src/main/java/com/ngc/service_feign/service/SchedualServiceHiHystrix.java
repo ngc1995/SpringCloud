@@ -1,5 +1,8 @@
 package com.ngc.service_feign.service;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class SchedualServiceHiHystrix implements SchedualServiceHi{
 
 
