@@ -11,6 +11,7 @@
         <module name="eureka_server" />
         <module name="service_feign" />
         <module name="service_ribbon" />
+        <module name="service_zuul" />
         <module name="SpringCloud" />
       </profile>
     </annotationProcessing>
