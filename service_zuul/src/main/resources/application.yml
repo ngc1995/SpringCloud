@@ -11,7 +11,7 @@ zuul:
   routes:
     api-a:
       path: /api-a/**
-      serviceId: service-ribbon #以/api-a/ 开头的请求都转发给service-ribbon服务
+      serviceId: service-ribbon
     api-b:
       path: /api-b/**
-      serviceId: service-feign #以/api-b/开头的请求都转发给service-feign服务
+      serviceId: service-feign
