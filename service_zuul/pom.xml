@@ -28,6 +28,11 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-zuul</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>com.android.support</groupId>
+            <artifactId>support-compat</artifactId>
+        </dependency>
     </dependencies>
 
 </project>
